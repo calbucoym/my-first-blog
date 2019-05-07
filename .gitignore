@@ -1,7 +1,6 @@
 *.pyc
 *~
 __pycache__
-scpl
 db.sqlite3
 /static
 .DS_Store
